@@ -1,16 +1,3 @@
-# widgets
+# foodAppUi
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![maxresdefault](https://github.com/SufiyanRazaq/FoodAppUi/assets/119070430/5d7fc155-4d68-468d-bdcd-59c3f504b46a)
